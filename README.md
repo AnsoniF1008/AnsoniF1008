@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Ansoni Flores 👋</h1>
-<h3 align="center">InnovaWeb &amp; Security · Diseño web y cámaras de seguridad en Houston, TX</h3>
+<h3 align="center">InnovaWeb &amp; Security · Diseño web y cámaras de seguridad en Newport News, VA · Hampton Roads</h3>
 
 <p align="center">
   <a href="https://ansonif1008.github.io"><img src="https://img.shields.io/badge/Portafolio-ansonif1008.github.io-22d3ee?style=for-the-badge" alt="Portafolio"></a>
@@ -7,9 +7,9 @@
   <a href="https://nextdoor.com/page/innovaweb-security"><img src="https://img.shields.io/badge/Nextdoor-InnovaWeb%20%26%20Security-8ED500?style=for-the-badge&logo=nextdoor&logoColor=white" alt="Nextdoor"></a>
 </p>
 
-Desarrollador web y fundador de **InnovaWeb & Security**. Creo sitios y aplicaciones web para negocios y organizaciones locales, e instalo sistemas de cámaras de seguridad para casas y negocios en el área de Houston.
+Desarrollador web y fundador de **InnovaWeb & Security**. Creo sitios y aplicaciones web para negocios y organizaciones locales, e instalo sistemas de cámaras de seguridad para casas y negocios en Newport News y el área de Hampton Roads, Virginia (Newport News, Hampton, Williamsburg, Yorktown y Norfolk).
 
-> 🇺🇸 Web developer and founder of **InnovaWeb & Security**. I build websites and web apps for local businesses and organizations, and install security camera systems for homes and businesses in the Houston area. Bilingual: Spanish / English.
+> 🇺🇸 Web developer and founder of **InnovaWeb & Security**. I build websites and web apps for local businesses and organizations, and install security camera systems for homes and businesses in Newport News and the Hampton Roads area of Virginia (Newport News, Hampton, Williamsburg, Yorktown and Norfolk). Bilingual: Spanish / English.
 
 ## 🛠️ Servicios / Services
 
@@ -52,4 +52,4 @@ Desarrollador web y fundador de **InnovaWeb & Security**. Creo sitios y aplicaci
 - 🏡 Nextdoor: [InnovaWeb & Security](https://nextdoor.com/page/innovaweb-security)
 - 🌐 Portafolio: [ansonif1008.github.io](https://ansonif1008.github.io)
 
-<p align="center"><sub>📍 Houston, TX · Español / English</sub></p>
+<p align="center"><sub>📍 Newport News, VA · Hampton Roads · Español / English</sub></p>
